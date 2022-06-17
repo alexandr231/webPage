@@ -1,0 +1,24 @@
+p {
+    color:white;
+}
+#greeting {
+    color:violet
+}
+a:hover {
+    color:aquamarine
+}
+.goals {
+    color:coral
+}
+html {  /* шрифт */
+    font-size: 12px;
+    font-family: 'Comfortaa', cursive;
+    background-color:#101A41;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+p,li {
+    font-size: 16px;
+}
